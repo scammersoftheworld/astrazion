@@ -5,4 +5,4 @@ What went wrong with the #AstraZion #TRC-20 token project - A comprehensive anal
 
 BACKGROUND  
   
-AstraZion token is a TRC-20 token launched by NAPOLEON VISPERAS
+AstraZion token is a TRC-20 token launched by NAPOLEON VISPERAS as an Initial Coin Offering set for public listing at Coin Market Cap (https://coinmarketcap.com) and listing in major exchangers such as in Binance, Kucoin, Huobi, eToro, and many more in December 2022.
